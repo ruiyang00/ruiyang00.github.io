@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2025-08-11
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+:rocket: ZenFlow has now been officially adopted into <a href="https://github.com/deepspeedai/DeepSpeed">DeepSpeed</a> and is also featured on the <a href="https://pytorch.org/blog/zenflow-stall-free-offloading-engine-for-llm-training/">PyTorch</a> blog.
